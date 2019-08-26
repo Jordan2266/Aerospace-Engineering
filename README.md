@@ -10,4 +10,5 @@
 
 
 <p>Sources:</p>
-<a href="https://injuryfacts.nsc.org/">https://injuryfacts.nsc.org/</a>
+<a href="https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/">https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/</a>
+<a href="https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885">https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885</a>
