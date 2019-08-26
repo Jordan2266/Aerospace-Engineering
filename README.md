@@ -9,4 +9,4 @@
 <p>Apart from combat purposes, the U.S. military will also use aircraft for non-combat roles within the military. For example, the KC-10 runs aerial refueling missions for fighter jets that are on missions. The KC-10 uses an extension nozzle on the rear of the aircraft to transfer fuel from the KC-10 to the aircraft it's being connected to which allows combat aircraft to fly longer and run missions longer.</p>
 
 
-<p><b>Sources:</b> <a href="https://injuryfacts.nsc.org/"</a> </p>
+<p><b>Sources:</b> <a href="https://injuryfacts.nsc.org/"></a> </p>
