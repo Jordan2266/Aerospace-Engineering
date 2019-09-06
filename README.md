@@ -13,6 +13,7 @@
 ![image](https://user-images.githubusercontent.com/54198889/64083987-5f08a780-ccf4-11e9-8972-c3c1bef909f1.png)
 ## <u>What education is required to become an Aerospace Engineer?</u>
 <p>Most positions to become an aerospace engineer require a Bachelor's degree in order to this field. But, according to environmentalscience.org, some universites offer a 5-year aerospace program where students can attain a Bachelor's and Master's degree at the same time. There is no license requirement in order to enter this particular workfield but more advanced engineering positions would require a license and the required score for each state is different. </p>
+![image](https://user-images.githubusercontent.com/54198889/64392912-e750ba80-d01c-11e9-87f5-332802d88a3d.png)
 <p><u>Sources:</u></p>
 <a href="https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/">https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/</a>
 <a href="https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885">https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885</a>
