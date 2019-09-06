@@ -1,4 +1,4 @@
-## What is aerospace engineering?
+## <u>What is aerospace engineering?</u>
 <p>Aerospace engineering is the field of study of the design and development of aircraft and spacecraft. Jobs for this field can range from mechanical engineers to quality inspectors and even managers. Many companies that specialize in aerospace engineering such as Boeing will make billions of dollars every year from contracting to commercial airline companies and even the U.S. military. As of 2018 according to CNBC, Boeing has made a total revenue of $101 billion, which was a record high for Boeing.</p>
 ![image](https://user-images.githubusercontent.com/54198889/64082715-66728580-cce1-11e9-94c1-bcdfb97d77c6.png)
 ## Why is aerospace engineering so important?
@@ -11,9 +11,10 @@
 <p>Every year the U.S. military spends billions in order to keep the country safe. As of 2018, the U.S. military spent close to $700 billion on the military alone for weapon manufactering companies to create equipment for the military. These can range from large C-130 military transport aircraft to small drones that can fit inside your pocket. Aircraft in the U.S. military have proven time and time again to be extremely important in dangerous combat environments and even far outside of a warzone. For example, during World War 2, the U.S. Navy relied heavily on aircraft in the Pacific theatre to establish aerial dominance and as they were within range of Japan, the Navy used it's B-17 bombers to attack.</p>
 <p>Apart from combat purposes, the U.S. military will also use aircraft for non-combat roles within the military. For example, the KC-10 runs aerial refueling missions for fighter jets that are on missions. The KC-10 uses an extension nozzle on the rear of the aircraft to transfer fuel from the KC-10 to the aircraft it's being connected to which allows combat aircraft to fly longer and run missions longer.</p>
 ![image](https://user-images.githubusercontent.com/54198889/64083987-5f08a780-ccf4-11e9-8972-c3c1bef909f1.png)
-
-
+## What education is required to become an Aerospace Engineer?
+<p>Most positions to become an aerospace engineer require a Bachelor's degree in order to this field. But, according to environmentalscience.org, some universites offer a 5-year aerospace program where students can attain a Bachelor's and Master's degree at the same time. There is no license requirement in order to enter this particular workfield but more advanced engineering positions would require a license and the required score for each state is different. </p>
 <p>Sources:</p>
 <a href="https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/">https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/</a>
 <a href="https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885">https://www.elitedaily.com/news/world/people-terrified-plane-crashes-even-though-rare/977885</a>
 <a href="https://www.cnbc.com/2019/01/30/boeing-earnings-q4-2018.html">https://www.cnbc.com/2019/01/30/boeing-earnings-q4-2018.html</a>
+<a href="https://www.environmentalscience.org/career/aerospace-engineer">https://www.environmentalscience.org/career/aerospace-engineer</a>
